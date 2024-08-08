@@ -61,7 +61,7 @@ A Full-Stack developer from India
 <a href="https://github.com/YogeshNayak04" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/yogesh-kumar-nayak" target="_blank">
+<a href="https://linkedin.com/in/yogesh-kumar-nayak/b9a3a4213" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/YogeshNayak15340" target="_blank">
